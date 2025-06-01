@@ -1,4 +1,5 @@
 Documenting Findings: XSS
+Author : Adhithya Mohan S
 Payload Generation and WAF
 Evasion
 1. Introduction
